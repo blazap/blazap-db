@@ -4,6 +4,7 @@
    "category":"api",
    "name":"Test",
    "lower":"test",
+   "description":"test description",
    "webUrl":"https://itroeix.xyz/",
    "imageUrl":"https://ttimg.vercel.app/penpot.png",
    "developer":"itroeix",
