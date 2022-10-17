@@ -1,3 +1,3 @@
 # blazap-db
 ### How to send an application?
-![tutorial](https://user-images.githubusercontent.com/54476100/196240345-f955c5f9-f8f0-4c1b-a72e-311dae4b558c.png)
+![newtutorial](https://user-images.githubusercontent.com/54476100/196257202-3f359b38-a0a0-44d7-83a0-49867adfb4b0.png)
