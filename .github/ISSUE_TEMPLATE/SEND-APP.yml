@@ -13,34 +13,34 @@ body:
     id: appname
     attributes:
       label: App Name
-      placeholder: ex. YouTube
+      placeholder: ex. GitHub
     validations:
       required: true
   - type: input
     id: category
     attributes:
       label: Category
-      placeholder: ex. Video
+      placeholder: ex. Coding
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
       label: App Description
-      placeholder: ex. YouTube is a free video sharing website that makes it easy to watch online videos. You can even create and upload your own videos to share with others.
+      placeholder: ex. Is an Internet hosting service for software development and version control using Git.
     validations:
       required: true
   - type: input
     id: websiteurl
     attributes:
       label: Website URL
-      placeholder: ex. https://youtube.com/
+      placeholder: ex. https://github.com/
     validations:
       required: true
   - type: input
     id: developer
     attributes:
       label: Developer
-      placeholder: ex. Google
+      placeholder: ex. Microsoft
     validations:
       required: true
