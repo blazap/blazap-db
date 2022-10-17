@@ -1,7 +1,7 @@
 name: Send App
 description: Send the web applications that you want or what you have done.
 title: "[Send App]: "
-labels: ["bug", "triage"]
+labels: ["send app"]
 assignees:
   - octocat
 body:
