@@ -1,0 +1,46 @@
+name: Send App
+description: Send the web applications that you want or what you have done.
+title: "[Send App]: "
+labels: ["bug", "triage"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to send a web application!
+  - type: input
+    id: appname
+    attributes:
+      label: App Name
+      placeholder: ex. YouTube
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      placeholder: ex. Video
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: App Description
+      placeholder: ex. YouTube is a free video sharing website that makes it easy to watch online videos. You can even create and upload your own videos to share with others.
+    validations:
+      required: true
+  - type: input
+    id: websiteurl
+    attributes:
+      label: Website URL
+      placeholder: ex. https://youtube.com/
+    validations:
+      required: true
+  - type: input
+    id: developer
+    attributes:
+      label: Developer
+      placeholder: ex. Google
+    validations:
+      required: true
