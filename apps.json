@@ -29,7 +29,7 @@
    "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
    "shared":"itroeix" 
   },
-    {
+  {
    "id":4,
    "category":"text",
    "name":"VS Code",
@@ -39,5 +39,4 @@
    "imageUrl":"https://img.icons8.com/color/96/000000/visual-studio-code-2019.png",
    "shared":"lizardwine" 
   }
-  
 ]
