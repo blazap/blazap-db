@@ -1,24 +1,163 @@
 [
   {
    "id":1,
-   "category":"test",
-   "name":"Test",
-   "lower":"test",
-   "description":"test description",
-   "webUrl":"https://itroeix.xyz/",
-   "imageUrl":"https://ttimg.vercel.app/penpot.png",
-   "developer":"itroeix",
+   "category":"design",
+   "name":"Figma",
+   "lower":"figma",
+   "description":"Coming soon",
+   "webUrl":"https://figma.com",
+   "imageUrl":"https://img.icons8.com/color/96/000000/figma--v1.png",
    "shared":"itroeix" 
   },
   {
    "id":2,
-   "category":"api",
-   "name":"Test 2",
-   "lower":"test 2",
-   "description":"test description 2",
-   "webUrl":"https://itroeix.xyz/",
-   "imageUrl":"https://ttimg.vercel.app/penpot.png",
-   "developer":"itroeix",
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
    "shared":"itroeix" 
   }
+    {
+   "id":2,
+   "category":"design",
+   "name":"Photopea",
+   "lower":"photopea",
+   "description":"Coming soon",
+   "webUrl":"https://www.photopea.com",
+   "imageUrl":"https://ttimg.vercel.app/photopea.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+    {
+   "id":2,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  }
+  
 ]
