@@ -1,0 +1,42 @@
+[
+  {
+   "id":1,
+   "category":"design",
+   "name":"Figma",
+   "lower":"figma",
+   "description":"Coming soon",
+   "webUrl":"https://figma.com",
+   "imageUrl":"https://img.icons8.com/color/96/000000/figma--v1.png",
+   "shared":"itroeix" 
+  },
+ {
+   "id":2,
+   "category":"design",
+   "name":"Photopea",
+   "lower":"photopea",
+   "description":"Coming soon",
+   "webUrl":"https://www.photopea.com",
+   "imageUrl":"https://ttimg.vercel.app/photopea.png",
+   "shared":"itroeix" 
+  },
+  {
+   "id":3,
+   "category":"text",
+   "name":"Notepad++",
+   "lower":"notepad++",
+   "description":"Coming soon",
+   "webUrl":"https://notepad-plus-plus.org",
+   "imageUrl":"https://img.icons8.com/fluency/96/000000/notepad-plus-plus.png",
+   "shared":"itroeix" 
+  },
+  {
+   "id":4,
+   "category":"text",
+   "name":"VS Code",
+   "lower":"vs code",
+   "description":"Visual Studio Code, also commonly referred to as VS Code. is a source code editor made by Microsoft with Electron framework for Windows, Linux and macOS.",
+   "webUrl":"https://code.visualstudio.com",
+   "imageUrl":"https://img.icons8.com/color/96/000000/visual-studio-code-2019.png",
+   "shared":"lizardwine" 
+  }
+]
